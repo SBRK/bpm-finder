@@ -1,0 +1,21 @@
+{
+  "name": "bpm-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "glob-fs": "^0.1.7",
+    "leven": "^2.1.0",
+    "lodash": "^4.17.10",
+    "music-metadata": "^2.8.0",
+    "sleep-promise": "^8.0.1",
+    "spotify-web-api-js": "^1.1.1",
+    "spotify-web-api-node": "^3.1.1"
+  }
+}
